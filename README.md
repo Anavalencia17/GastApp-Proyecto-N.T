@@ -7,6 +7,11 @@ Permite registrar ingresos, gastos y visualizar la información para llevar un m
 
 Este proyecto fue desarrollado como parte de la asignatura **Nuevas Tecnologías**.
 
+# Participantes
+-Ana Maria Piedrahita Valencia
+-Keimer Valoyes
+-Samuel Martínez
+
 ---
 
 # Configuración del Proyecto
